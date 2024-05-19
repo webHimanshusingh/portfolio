@@ -1,4 +1,4 @@
-# Day-3-Portfolio-Website-Dynamic
+# Portfolio-Website-Dynamic
 
 Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
@@ -6,19 +6,39 @@ Live Demo - https://quantumcoding123.github.io/Day-3-Portfolio-Website-Dynamic/
 
 # Join Us
 
-GitHub-https://github.com/QuantumCoding123
+GitHub-https://github.com/webHimanshusingh
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+Linkedin-https://www.linkedin.com/in/website-himanshu-singh
 
-Instagram - https://www.instagram.com/quantumcoding123
-
-Telegram-https://t.me/+yw9iQAMmd002NTI1
-
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
-
-With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
-
-Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
+Calculator Project Overview
+1. Project Title: Simple Calculator App
+2. Description:
+The Simple Calculator App is a basic calculator designed to perform arithmetic operations such as addition, subtraction, multiplication, and division.
+It provides a user-friendly interface for performing calculations quickly and accurately.
+3. Role:
+Developer
+4. Technologies Used:
+Frontend: HTML, CSS, JavaScript
+Framework: React.js
+5. Challenges Faced:
+Implementing the logic for handling different arithmetic operations efficiently.
+Ensuring responsive design for various screen sizes and devices.
+6. Achievements:
+Successfully implemented all arithmetic operations with error handling for invalid inputs.
+Designed a clean and intuitive user interface for ease of use.
+7. Responsibilities:
+Developed the frontend components using React.js and styled them with CSS.
+Implemented the calculator logic in JavaScript to perform accurate calculations.
+8. Outcome:
+The Simple Calculator App provides users with a convenient tool for basic arithmetic calculations.
+It has received positive feedback for its simplicity and functionality.
+9. Screenshots/Demo Links:
+Calculator Interface Screenshot
+Live Demo Link
+10. Lessons Learned:
+Enhanced my skills in JavaScript programming, particularly in handling user inputs and mathematical operations.
+Learned about UI/UX design principles for creating intuitive interfaces.
+Feel free to replace placeholders like "#", which indicate where you could include screenshots or live demo links, with the actual links or images from your calculator project. This content structure should give a clear overview of your calculator app and your contributions to the project.
 
 # Output - 1
 
